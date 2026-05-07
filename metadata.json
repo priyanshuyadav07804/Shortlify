@@ -1,0 +1,6 @@
+{
+  "name": "Shortlify",
+  "description": "A URL shortener web application featuring code generation through QR codes. Built with Next.js, Tailwind CSS, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
